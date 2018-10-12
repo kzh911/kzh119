@@ -1,0 +1,40 @@
+body{
+	background: #E3E3E3;
+}
+p{
+	text-indent: 2em;
+}
+a{
+	color: blue;
+	text-decoration: none;
+}
+.img{
+	text-align: center;
+	color: gray;
+}
+h2{
+	text-indent: 2em;
+	margin-top: 50px;
+}
+h1 ,h6{
+	text-align: center;
+}
+.L{
+	width: 400px;
+	height: 5000px;
+	/*background: pink;*/
+	float: left;
+}
+.nr{
+	width: 1000px;
+	height: 5000px;
+	float: left;
+	background: white;
+	box-shadow: #808080 0 0 5px;
+}
+.R{
+	width: 400px;
+	height: 5000px;
+	/*background: gray;*/
+	float: left;
+}
